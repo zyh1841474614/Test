@@ -1,2 +1,2 @@
 hello stock
-hello A
+hello B
